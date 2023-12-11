@@ -35,3 +35,6 @@ com outros membros.
 
 ### 4.versionadador:
 ![github logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### 5. 📈Github Stats:
+!
