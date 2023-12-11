@@ -14,9 +14,9 @@ interpessoal, assim como capacidade de
 trabalhar em equipe e colaborar efetivamente
 com outros membros.
 
-## Skills:
+## 🚀Skills:
 
-### 1.linguagens de programação
+### 👩‍💻1.linguagens de programação:
 
 ![Python logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5 logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
