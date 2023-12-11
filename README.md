@@ -2,11 +2,11 @@
 
 ### Sobre mim:
 
-sou um desenvolvedor front-end python
-intermediário,atuando como web developer, tenho
+sou um desenvolvedor FullStack python
+Junior,atuando como web developer, tenho
 habilidades técnicas sólidas em linguagens como
 HTML5, CSS3, JavaScript. Além disso, tenho
-habilidade em bootsrap framework, Visual Studio Code
+habilidade em bootsrap , Django framework, Visual Studio Code
 e sistemas de controle de versão, como
 GitHub. Além disso, sou habil em resolução de 
 problemas. Facilidade de comunicação
