@@ -1,7 +1,7 @@
 # Welcome to my profile !!
 
 sou um desenvolvedor front-end python
-intermediário,atualdo como web developer, tenho
+intermediário,atuando como web developer, tenho
 habilidades técnicas sólidas em linguagens como
 HTML5, CSS3, JavaScript. Além disso, tenho
 habilidade em bootsrap framework, Visual Studio Code
