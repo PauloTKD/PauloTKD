@@ -26,3 +26,12 @@ com outros membros.
 ![Visual Studio logo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![github logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
+### 2. Framework:
+![Boostrap logo](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 3.Environment:
+![Visual Studio logo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+### 4.versionadador:
+![github logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
