@@ -10,4 +10,4 @@ GitHub. Além disso, sou habil em resolução de
 problemas. Facilidade de comunicação
 interpessoal, assim como capacidade de 
 trabalhar em equipe e colaborar efetivamente
-com outrs membros
+com outrs membros.
