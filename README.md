@@ -1,5 +1,7 @@
 # Welcome to my profile !!
 
+### Sobre mim:
+
 sou um desenvolvedor front-end python
 intermediário,atuando como web developer, tenho
 habilidades técnicas sólidas em linguagens como
