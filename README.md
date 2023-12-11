@@ -38,4 +38,4 @@ com outros membros.
 
 ### 5. 📈Github Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=PauloTKD&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github)
