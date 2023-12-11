@@ -37,5 +37,5 @@ com outros membros.
 ![github logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 5. 📈Github Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=PauloTKD&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
