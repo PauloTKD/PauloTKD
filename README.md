@@ -29,10 +29,11 @@ com outros membros.
 
 ### 3.Environment:
 ![Visual Studio logo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ### 4.versionadador:
 ![github logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+
 
 ### 5. 📈Github Stats:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github)
