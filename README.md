@@ -2,17 +2,10 @@
 
 ### Sobre mim:
 
-sou um desenvolvedor FullStack python
-Junior,atuando como web developer, tenho
-habilidades técnicas sólidas em linguagens como
-HTML5, CSS3, JavaScript. Além disso, tenho
-habilidade em bootsrap , Django framework, Visual Studio Code
-e sistemas de controle de versão, como
-GitHub. Além disso, sou habil em resolução de 
-problemas. Facilidade de comunicação
-interpessoal, assim como capacidade de 
-trabalhar em equipe e colaborar efetivamente
-com outros membros.
+Olá, eu sou um dev fullstack python jr apaixonado por criar aplicações web dinâmicas e escaláveis.
+Eu tenho experiência com Python e seu framework, como Django, e também com HTML, CSS, JavaScript
+e seus frameworks, como boostrap. Eu gosto de aprender novas tecnologias e desafiar-me em projetos
+inovadores. Aqui no meu GitHub, você pode encontrar alguns dos meus trabalhos,
 
 ## 🚀Skills:
 
