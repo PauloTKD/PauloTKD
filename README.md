@@ -5,7 +5,7 @@
 Olá, eu sou um dev fullstack python jr apaixonado por criar aplicações web dinâmicas e escaláveis.
 Eu tenho experiência com Python e seu framework, como Django, e também com HTML, CSS, JavaScript
 e seus frameworks, como boostrap. Eu gosto de aprender novas tecnologias e desafiar-me em projetos
-inovadores. Aqui no meu GitHub, você pode encontrar alguns dos meus trabalhos,
+inovadores. Aqui no meu GitHub, você pode encontrar alguns dos meus trabalhos.
 
 ## 🚀Skills:
 
