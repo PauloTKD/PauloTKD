@@ -25,7 +25,7 @@ inovadores. Aqui no meu GitHub, você pode encontrar alguns dos meus trabalhos.
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
 ### 4.versionadador:
-![github logo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
 ### 5. 📈Github Stats:
