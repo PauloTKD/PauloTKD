@@ -17,6 +17,8 @@ inovadores. Aqui no meu GitHub, você pode encontrar alguns dos meus trabalhos.
 
 ![Python logo](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP logo]([https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge))
+![TYpescript logo](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
 
 
 
