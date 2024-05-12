@@ -25,6 +25,7 @@ inovadores. Aqui no meu GitHub, você pode encontrar alguns dos meus trabalhos.
 ### 3. Framework:
 ![Boostrap logo](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Djnago Logo](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Laravel logo](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### 4.Environment:
 ![Visual Studio logo](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
